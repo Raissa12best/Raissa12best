@@ -2,7 +2,7 @@
 - 👀 Programming
 - 🌱 I’m currently taking my Bachelor's in Computer Science 
 - 💞️ I’m looking to collaborate on Coding projects.
-- 📫  bestraissa20@gmail.com.
+- 📫  For inquiries bestraissa20@gmail.com.
 - 😄 Iam a she
 - ⚡ 
 
