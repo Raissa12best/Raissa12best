@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Raissa12best
-- 👀 Programming
-- 🌱 I’m currently taking my Bachelor's in Computer Science 
-- 💞️ I’m looking to collaborate on Coding projects.
-- 📫  For inquiries bestraissa20@gmail.com.
-- 😄 Iam a she
-- ⚡ 
+# 👋 Hi, I'm Best Raissa Akariza Uwase 
+
+## 🚀 About Me
+I'm a junior developer with a passion for building web applications using React. I'm constantly learning and exploring new front-end technologies to enhance my skills and contribute to exciting projects.
+
+## 🛠️ Technologies & Tools
+- **stack:** React, JavaScript, HTML, CSS, Node js, NestJS
+- **Tools:** Git, GitHub, VS Code, npm, Webpack, Docker, Postman
+
+
 
 <!---
 Raissa12best/Raissa12best is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
