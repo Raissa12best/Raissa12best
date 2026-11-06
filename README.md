@@ -40,9 +40,9 @@ _Tools & platforms_
 
 [![Github](https://img.shields.io/badge/Github-181717?logo=github)](https://github.com/raissa12best) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin)](https://www.linkedin.com/in/akariza-uwase-best-raissa-1a67022a4) [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?logo=googlechrome&labelColor=181717)](https://raissa12best.github.io/Portfolio-Website-/)
 
-<!-- ********===Gh profile summary********=== -->
 
-<h2 style="margin: 2.5em 0;">⚡ Stats ⚡</h2>
+
+
 
 <div align=center style="display: flex; flex-wrap:wrap; align-items: center; justify-content: center; gap: 0.8em;">
 
