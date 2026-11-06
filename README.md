@@ -46,14 +46,25 @@ _Tools & platforms_
 
 <div align=center style="display: flex; flex-wrap:wrap; align-items: center; justify-content: center; gap: 0.8em;">
 
-<!-- GitHub stats -->
+<!-- ********=== GitHub profile summary ===******** -->
 
-    <img width=390 src="https://github-readme-stats.vercel.app/api?username=raissa12best&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" align="center"/>
+<h2 style="margin: 2.5em 0;">⚡ Stats ⚡</h2>
 
-<!-- GitHub streaks -->
+<div align="center" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 0.8em;">
 
-    <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=raissa12best&count_private=true&theme=react&border_radius=10" alt="streak stats" align="center"/>
+  <!-- GitHub stats -->
+  <img width="390" src="https://github-stats-extended.vercel.app/api?username=raissa12best&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats"/>
 
+  <!-- GitHub streaks -->
+  <img width="390" src="https://streak-stats.demolab.com/?user=raissa12best&theme=react&border_radius=10" alt="GitHub Streak"/>
+
+</div>
+
+<!-- Most used languages -->
+
+<div align="center" style="margin-top: 1em;">
+  <img width="325" src="https://github-stats-extended.vercel.app/api/top-langs/?username=raissa12best&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages"/>
+</div>
 </div>
 
 <!-- Most used languages -->
